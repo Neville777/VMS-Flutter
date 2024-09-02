@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954706611772",
+    "project_id": "nevo-58e1a",
+    "storage_bucket": "nevo-58e1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954706611772:android:5854df6324ac467ed83d39",
+        "android_client_info": {
+          "package_name": "com.coseke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9zjHLM7EAA5tYolNsoSipP-w0WMd70O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
